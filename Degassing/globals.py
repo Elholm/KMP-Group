@@ -1,0 +1,16 @@
+dev_handle = 0
+pixels = 4096
+wavelength = [0.0] * 4096
+spectraldata = [0.0] * 4096
+ratio_time = [0.0]
+ratio = [0.0]
+dark_spectrum = [0.0] * 4096
+light_spectrum = [0.0] * 4096
+spectral_minus_dark = [0.0]
+spectral_minus_light = [0.0]
+upHandle = 0
+sensitizer_concentrations = []
+emitter_concentrations = []
+sens_flowrates = []
+emit_flowrates = []
+solv_flowrates = []
