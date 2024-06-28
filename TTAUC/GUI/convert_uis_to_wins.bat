@@ -1,0 +1,1 @@
+for %%y in (*.ui) do %USERPROFILE%\Anaconda3\python -m PyQt5.uic.pyuic -x %%y -o ..\windows\%%~ny_win.py
