@@ -34,11 +34,11 @@ from PyQt5.QtCore import *
 from PyQt5.QtGui import *
 from PyQt5.QtWidgets import *
 from lib.windows import QYA_f_win as form_window
-import flux_dict
+# import flux_dict
 
 # import globals
 # import qy_window
-from lib.avaspec import *
+# from lib.avaspec import *
 
 # from tqdm import tqdm
 # print(__file__.split("\\")[-1].split(".")[0])
